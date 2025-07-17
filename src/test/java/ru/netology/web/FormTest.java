@@ -142,4 +142,3 @@ class FormTest {
         $("[data-test-id=city] .input__sub").shouldHave(text("Доставка в выбранный город недоступна"));
     }
 }
-
